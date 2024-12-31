@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * Developed by: Ariana Feng
+ * Developed by: Ariana F
  * Date: Jun 12, 2023
  * Yahtzee game with Dice and Yahtzee class, user rolls 5 dice and there are
  * 13 scoring options.
